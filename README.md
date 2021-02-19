@@ -1,10 +1,10 @@
 # Doric Wallet Extension
 
-Extensão para navegadores da Doric Wallet
+Extensão para navegadores da Doric Wallet.
 
 Navegadores suportados:
 
-- [Brave]('./navegadores/brave');
-- [Chrome]('./navegadores/chrome');
-- [Firefox]('./navegadores/firefox');
-- [Opera]('./navegadores/opera');
+- [Brave]('https://github.com/Doric-Blockchain/doric-wallet-extension/tree/main/navegadores/brave')
+- [Chrome]('https://github.com/Doric-Blockchain/doric-wallet-extension/tree/main/navegadores/chrome')
+- [Firefox]('https://github.com/Doric-Blockchain/doric-wallet-extension/tree/main/navegadores/firefox')
+- [Opera]('https://github.com/Doric-Blockchain/doric-wallet-extension/tree/main/navegadores/opera')
