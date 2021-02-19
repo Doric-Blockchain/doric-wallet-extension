@@ -1,3 +1,5 @@
+![Doric Network logo](https://doric.network/assets/images/doric-logo-black.png)
+
 # Doric Wallet Extension
 
 Extensão para navegadores da Doric Wallet.
